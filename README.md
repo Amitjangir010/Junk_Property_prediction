@@ -24,14 +24,3 @@ The goal of this project is to predict whether a property qualifies as junk base
 
 - `Junk_Property.ipynb`: The main notebook containing the code for data preprocessing, model training, and prediction.
 - `Amit_Jangir_2(P5).csv`: The output file containing predictions for each property.
-
-## Getting Started
-
-To run this project on your local machine:
-
-1. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-   
-2. Open the Jupyter notebook and run all the cells to train the model and generate predictions.
